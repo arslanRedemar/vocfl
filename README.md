@@ -1,2 +1,5 @@
-# vocfl
-Words learning tool
+# Vocfl - 가볍고, 사용하기 쉬운 단어장 어플리케이션
+
+## 현재 프로젝트 스테이터스
+
+개발중지 상태 
